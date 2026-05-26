@@ -53,4 +53,5 @@ GPU-based LLM inference experiments focused on batching, KV cache tuning, latenc
 
 LinkedIn: https://www.linkedin.com/in/zinal-mehta-7bab10b7  
 Email: mehtazinal2519@gmail.com  
-Portfolio/Resume: https://zinal-mehta.vercel.app/
+Portfolio/Resume: https://zinal-mehta.vercel.app/  
+Medium: https://medium.com/@zennyinsights
